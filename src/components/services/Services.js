@@ -9,6 +9,7 @@ import "../../assets/scss/main.css";
 // import { FaBeer } from 'react-icons/fa';
 // import { GrPersonalComputer } from 'react-icons/Gr';
 import { GrPersonalComputer } from "react-icons/gr";
+import SectionPooja from "../astrology/sectionpooja";
 //
 export default function Services() {
   return (
@@ -128,6 +129,9 @@ export default function Services() {
             </Row>
           </Container>
         </div>
+      </section>
+      <section>
+        <SectionPooja />
       </section>
     </LayoutOne>
   );
