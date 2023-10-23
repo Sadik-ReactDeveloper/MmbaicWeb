@@ -79,3 +79,7 @@
 .allservicesmainheading.col-sm-12.col-md-4.col-lg-4 {
     padding: 8px 35px;
 }
+p.paragraphtxt {
+  padding: 41px 31px;
+  line-height: 24px;
+}
